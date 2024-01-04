@@ -32,7 +32,7 @@ This repository houses a custom GPT-2 Bengali Language Model, a project dedicate
 
 ## Generated Texts
 
-The trained model can generate contextual texts in the writing styles of renowned Bengali writers. Examples of generated texts are available in the [**Samples**](./samples) directory.
+The trained model can generate contextual texts in the writing styles of renowned Bengali writers. Examples of generated texts are available in the [**Samples**](./sample/sample5.jpg) directory.
 
 ## Usage
 
