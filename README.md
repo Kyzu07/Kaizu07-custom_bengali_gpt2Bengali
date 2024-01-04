@@ -32,19 +32,8 @@ This repository houses a custom GPT-2 Bengali Language Model, a project dedicate
 
 ## Generated Texts
 
-The trained model can generate contextual texts in the writing styles of renowned Bengali writers. Examples of generated texts are available in the [**Samples**](./sample/sample5.jpg) directory.
+The trained model can generate contextual texts in the writing styles of renowned Bengali writers. Examples of generated texts are available in the [**Samples**](./sample/) directory.
 
-## Usage
 
-To use the GPT-2 Bengali Language Model, follow the instructions in the [**Usage Guide**](./docs/usage.md).
 
-## Results
-
-Check out the [**Results**](./docs/results.md) to explore the performance of the model, including sample generated texts.
-
-## Acknowledgments
-
-This project wouldn't have been possible without the support of the Bengali literature community and the open-source contributions from the GPT-2 project.
-
-Feel free to explore the code, experiment with the model, and contribute to its improvement!
 
